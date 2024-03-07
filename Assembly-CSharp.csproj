@@ -62,7 +62,6 @@
   <ItemGroup>
     <Compile Include="Assets\CoinsManager.cs" />
     <Compile Include="Assets\PROMETEO - Car Controller\Scripts\PrometeoTouchInput.cs" />
-    <Compile Include="Assets\Scripts\BlockCollision.cs" />
     <Compile Include="Assets\PROMETEO - Car Controller\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\redCarScript.cs" />
     <Compile Include="Assets\Scripts\CameraBehavior.cs" />

@@ -6,7 +6,7 @@ public class CameraBehavior : MonoBehaviour
 {
     public Transform target; // Drag the player car here
     public Vector3 offset;
-    public float cameraHeight = 2f;
+    public float cameraHeight = 12f;
     // Start is called before the first frame update
     void Start()
     {

@@ -359,7 +359,6 @@
 "Assets/PROMETEO - Car Controller/Scripts/CameraFollow.cs"
 "Assets/PROMETEO - Car Controller/Scripts/PrometeoCarController.cs"
 "Assets/PROMETEO - Car Controller/Scripts/PrometeoTouchInput.cs"
-"Assets/Scripts/BlockCollision.cs"
 "Assets/Scripts/CameraBehavior.cs"
 "Assets/Scripts/CarScript.cs"
 "Assets/Scripts/CoinCollection.cs"

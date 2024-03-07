@@ -97,7 +97,7 @@ public class RoadManager : MonoBehaviour
 
     void InstantiateMultipleRoadSides(float xOffset, float roadZPosition, GameObject prefab1, GameObject prefab2, int count)
     {
-        for (int i = 0; i < count; i++)
+        for (int i = 0; i < count+8; i++)
         {
             float yOffset = i * 2f; // Adjust the yOffset based on your desired spacing
 
